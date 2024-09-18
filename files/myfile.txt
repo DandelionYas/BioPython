@@ -1,0 +1,6 @@
+My first line of the file
+My second line of the file
+New line 3
+New line 4
+New line 5
+The last line from append mode
