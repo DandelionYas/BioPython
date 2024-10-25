@@ -2,3 +2,5 @@
 
 This repository is created to archive the codes written during the following online course:
 Python and Biopython for Bioinformatics from [Nexintek](https://nexintek.com/) and [DandelionAcademia](https://dandelionacademia.com/)
+
+Note: The clean code principles may not be considered as this was just a training course
